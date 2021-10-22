@@ -14,4 +14,4 @@ This demonstrates a frontend for a separate backend project; https://github.com/
 - clean up existing components
 - clean up package.json
 - create libs folder and add independent js file for making requests
-- add registration
+- add registration component

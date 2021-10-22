@@ -48,6 +48,9 @@ function App() {
     //     )
     // }
 
+    // TODO: Registration component (connect it to backend, redirect and router?)
+    // TODO: add fullName for users
+
   return (
     <div className="App">
       <header className="App-header">
